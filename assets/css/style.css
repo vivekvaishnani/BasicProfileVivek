@@ -1,0 +1,169 @@
+
+
+body
+    {
+    background-color: rgba(173, 166, 166, 0.349) ;
+    
+     
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+
+    text-align: center;
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    
+}
+
+.fontvivek{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    margin-left: 150px;
+}
+.fontabout{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-top: 12px;
+    margin-right: 55px;
+    margin-left: 2px;
+}
+.fontaboutme
+{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-left: 22px;
+    font-weight: bolder;
+    color: rgba(4, 80, 80, 0.918);
+
+}
+
+#fontform 
+        {
+            font-family: 'Playfair Display', serif;
+            font-family: 'Open Sans', sans-serif;
+
+}
+
+
+#divcontainer1
+{
+    background: white;
+    height: 500px;
+    width: 600px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+.divcontainer2
+{
+    background: white;
+    height: 500px;
+    width: 600px;
+    margin-left: 150px;
+    float: left;
+
+}
+
+#img1 {
+    float: left;
+    padding-right: 10px;
+}
+
+
+
+#divcontainer2  
+      {
+      background: white;
+      height: 200px;
+      width: 300px;
+      float: left;
+      margin-left: 300px;
+     
+}
+
+
+#alighcenter 
+{
+    font-style: align-self: center;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(57, 170, 173);
+}
+
+li a.active {
+    color: white;
+    background-color: rgb(38, 160, 154);
+}
+
+p 
+     {
+     height: 200px;
+     width: 550px;
+     background-color: white;
+     margin: 0px;
+     padding:0px;
+}
+
+footer 
+{ 
+   text-align: center;
+   color:black;
+   background-color: #666;
+   font-family: 'Playfair Display', serif;
+   font-family: 'Open Sans', sans-serif;
+   height: 100px;
+   width: 1600px;
+   margin-right: 5px;
+   margin-top: -3px;
+   padding: 40px;
+
+}
+
+footer1 
+      {
+    clear: both;
+    height: 100px;
+    width: 800px;
+    background-color: #666;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+
+p1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    height: 100px;
+    width: 100px;
+    margin: 40px 0px 0px -120px;
+    color: white;
+
+}
+
+.clearfix 
+     {
+         clear: both;
+       }
